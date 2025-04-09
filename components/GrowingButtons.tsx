@@ -120,7 +120,7 @@ const GrowingButtons = () => {
           priority
         />
         <div className="absolute -bottom-20 left-0 right-0 text-center p-2 text-black font-bold">
-          {"可以和Catherine妹妹当每天都能聊天的好朋友吗？"}
+          {"可以和你当每天都能聊天的好朋友吗？"}
         </div>
       </div>
       
