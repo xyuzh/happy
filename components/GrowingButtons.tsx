@@ -119,8 +119,8 @@ const GrowingButtons = () => {
           style={{ objectFit: "contain" }}
           priority
         />
-        <div className="absolute -bottom-20 left-0 right-0 text-center p-2 text-black font-bold">
-          {"可以和你当每天都能聊天的好朋友吗？"}
+        <div className="absolute -bottom-16 left-0 right-0 text-center p-2 text-black font-bold">
+          {"可以和我在一起吗？"}
         </div>
       </div>
       
